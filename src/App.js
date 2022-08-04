@@ -16,7 +16,7 @@ export default function App() {
         className="btn btn-outline-primary"
         onClick={handleClick}
       >
-        primary button custom
+        primary button
       </a>{" "}
     </div>
   );
